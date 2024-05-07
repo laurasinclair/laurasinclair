@@ -21,4 +21,4 @@ I'm a Frontend Developer with a background in Brand & UI Design. I absolutely lo
 
 
 ##  ☕️ Find me elsewhere
-[Linkedin](https://www.linkedin.com/in/laurasinclair/)
+[Linkedin](https://www.linkedin.com/in/laurasnclr/)
