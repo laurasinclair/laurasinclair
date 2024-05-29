@@ -1,6 +1,15 @@
 # Hi there, I'm Laura 👋
 
-I'm a Frontend Developer with a background in Brand & UI Design. I absolutely love to craft beautiful and intuitive digital experiences!
+I'm a frontend developer with love and passion for clean code, beautiful design, & nice details.
+
+⚙️ I'm a very fast learner and I grasp new concepts quickly. Most of the time, you'll find me tinkering/googling/troubleshooting something, to understand what's under the hood.
+
+📋 Accustomed to lean methodologies and tools (Agile, Scrum or Kanban).
+
+🍓 I learned HTML & CSS as a kid and have been staying up-to-date ever since - nowadays I'm using SASS/LESS, frameworks such as Bootstrap, and post-processors. CSS is my first love ❤️
+
+👁️ I've got a strong background as a UI and Brand Designer, focusing mainly on digital experiences. To each experience as a designer, I've brought in frontend skills as part of my toolset - which helped us save time, money, and improve user experience.
+
 
 ##  🔨 I'm building with...
 ![](https://img.shields.io/badge/React.js-informational?style=flat&logo=React&logoColor=ColorName&color=black)
@@ -17,6 +26,7 @@ I'm a Frontend Developer with a background in Brand & UI Design. I absolutely lo
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/HubSpot-informational?style=flat&logo=HubSpot&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/MJML-informational?style=flat&logo=MJML&logoColor=ColorName&color=black)
 
 
 ##  🌱 Currently learning
