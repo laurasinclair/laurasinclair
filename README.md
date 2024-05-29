@@ -24,14 +24,18 @@ I'm a frontend developer with love and passion for clean code, beautiful design,
 ![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jQuery&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/HubSpot-informational?style=flat&logo=HubSpot&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/HubSpotCMS-informational?style=flat&logo=HubSpot&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/MJML-informational?style=flat&logo=MJML&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Jasmine-informational?style=flat&logo=Jasmine&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Vite-informational?style=flat&logo=Vite&logoColor=ColorName&color=black)
 
 
 ##  🌱 Currently learning
 
 ![](https://img.shields.io/badge/GraphQl-informational?style=flat&logo=GraphQl&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Jest-informational?style=flat&logo=Jest&logoColor=ColorName&color=black)
 
 
 ##  ☕️ Find me elsewhere
