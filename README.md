@@ -26,6 +26,7 @@ I'm a frontend developer with love and passion for clean code, beautiful design,
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/HubSpot-informational?style=flat&logo=HubSpot&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/MJML-informational?style=flat&logo=MJML&logoColor=ColorName&color=black)
 
 
 ##  🌱 Currently learning
