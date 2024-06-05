@@ -12,7 +12,7 @@ I'm a frontend developer with love and passion for clean code, beautiful design,
 
 
 ##  🔨 I'm building with...
-![](https://img.shields.io/badge/React.js-informational?style=flat&logo=React&logoColor=ColorName&color=black)
+![React.js](https://img.shields.io/badge/React.js-informational?style=flat&logo=React&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=ColorName&color=black)
