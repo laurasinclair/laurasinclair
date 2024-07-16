@@ -34,7 +34,6 @@ I'm a frontend developer with love and passion for clean code, beautiful design,
 
 ##  🌱 Currently learning
 
-![](https://img.shields.io/badge/GraphQl-informational?style=flat&logo=GraphQl&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Jest-informational?style=flat&logo=Jest&logoColor=ColorName&color=black)
 
 
